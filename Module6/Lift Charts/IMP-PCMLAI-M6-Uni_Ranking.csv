@@ -1,0 +1,201 @@
+,research_rank,student_staff_ratio_rank,num_students_rank,world_rank,university_name
+169,182,190,1,167.0,Technical University of Denmark
+30,54,150,2,31.0,École Polytechnique Fédérale de Lausanne
+158,187,193,3,158.0,University of Rochester
+133,173,182,4,133.0,Case Western Reserve University
+47,55,71,5,47.0,Wageningen University and Research Center
+191,194,145,6,192.0,Ulm University
+148,142,158,7,148.0,Korea Advanced Institute of Science and Technology (KAIST)
+188,154,22,8,189.0,Arizona State University
+129,172,84,9,129.0,"Royal Holloway, University of London"
+50,79,156,10,51.0,Brown University
+85,111,130,11,86.0,University of St Andrews
+175,139,83,12,176.0,Eindhoven University of Technology
+180,196,165,13,180.0,Scuola Superiore Sant’Anna
+6,7,167,14,7.0,Princeton University
+27,26,143,15,28.0,Karolinska Institute
+18,11,46,16,19.0,University of Toronto
+194,199,177,17,195.0,Charité - Universitätsmedizin Berlin
+165,195,189,18,164.0,Yeshiva University
+151,118,136,19,149.0,University of Twente
+102,167,161,20,101.0,Rice University
+103,165,178,21,104.0,Dartmouth College
+141,163,126,22,141.0,University of Massachusetts
+91,114,122,23,90.0,Ohio State University
+72,72,11,24,73.0,Monash University
+193,91,39,25,193.0,Texas A&M University
+33,38,64,26,34.0,University of British Columbia
+122,76,56,27,120.0,University of Florida
+184,193,131,28,185.0,Brandeis University
+192,192,85,29,193.0,University of Luxembourg
+45,49,66,30,46.0,University of Texas at Austin
+173,158,134,31,174.0,University of Barcelona
+112,89,74,32,112.0,Scuola Normale Superiore di Pisa
+65,67,61,33,65.0,University of Minnesota
+99,90,87,34,99.0,Michigan State University
+74,65,132,35,75.0,Pennsylvania State University
+31,47,139,36,32.0,University of Washington
+155,155,7,37,156.0,University of Cologne
+35,25,55,38,36.0,University of Illinois at Urbana-Champaign
+34,34,10,39,35.0,KU Leuven
+29,43,176,40,30.0,New York University
+56,53,44,41,56.0,University of Sydney
+20,20,160,42,21.0,University of Michigan
+41,42,169,43,42.0,Peking University
+32,36,34,44,33.0,University of Melbourne
+125,126,6,45,125.0,University of Münster
+46,22,115,46,47.0,Tsinghua University
+49,52,147,47,50.0,University of Wisconsin-Madison
+115,74,59,48,113.0,Purdue University
+82,85,25,49,82.0,University of New South Wales
+113,120,42,50,113.0,University of Montreal
+15,15,151,51,16.0,"University of California, Los Angeles"
+110,77,23,52,110.0,RWTH Aachen University
+124,78,68,53,123.0,"Rutgers, the State University of New Jersey"
+67,71,128,54,68.0,University of Southern California
+162,133,129,55,163.0,University of Arizona
+137,104,38,56,137.0,University of Alberta
+12,8,76,57,13.0,"University of California, Berkeley"
+123,147,4,58,123.0,University of Erlangen-Nuremberg
+28,30,89,59,29.0,LMU Munich
+52,60,18,60,53.0,Technical University of Munich
+157,117,15,61,158.0,TU Dresden
+43,40,111,62,44.0,"University of California, Davis"
+55,58,93,63,56.0,University of Manchester
+59,64,17,64,60.0,The University of Queensland
+142,97,41,65,142.0,University of Vienna
+71,44,12,66,72.0,Free University of Berlin
+93,109,2,67,94.0,University of Bonn
+118,82,16,68,118.0,Ghent University
+168,73,137,69,167.0,National Taiwan University
+136,94,33,70,136.0,Stockholm University
+25,21,90,71,26.0,National University of Singapore
+117,132,168,72,117.0,"University of Maryland, College Park"
+37,45,116,73,38.0,McGill University
+160,56,172,74,161.0,Lomonosov Moscow State University
+61,62,92,75,62.0,Utrecht University
+178,127,31,76,179.0,University of Waterloo
+146,144,133,77,146.0,Autonomous University of Barcelona
+143,150,98,78,143.0,University of Nottingham
+116,112,155,79,116.0,Pohang University of Science and Technology
+48,33,5,80,49.0,Humboldt University of Berlin
+172,148,52,81,172.0,University of Auckland
+127,156,81,82,127.0,University of Colorado Boulder
+36,50,29,83,37.0,Heidelberg University
+170,141,9,84,167.0,Université Catholique de Louvain
+77,70,13,85,78.0,University of Tübingen
+90,86,142,86,90.0,Lund University
+114,175,163,87,113.0,Pierre and Marie Curie University
+198,197,101,88,199.0,Paris Diderot University – Paris 7
+134,151,104,89,133.0,University of Leeds
+187,184,99,90,188.0,Paris-Sud University
+81,130,196,91,82.0,University of Copenhagen
+38,48,181,92,39.0,"University of California, San Diego"
+135,122,53,93,135.0,University of Oslo
+106,135,80,94,106.0,"University of California, Irvine"
+13,9,149,95,14.0,University College London
+104,178,179,96,104.0,University of Zurich
+186,164,14,97,185.0,University of Würzburg
+62,83,173,98,63.0,University of North Carolina at Chapel Hill
+78,98,184,99,79.0,University of Pittsburgh
+83,95,19,100,84.0,University of Freiburg
+179,146,77,101,180.0,University of Gothenburg
+84,46,112,102,85.0,Seoul National University
+42,23,185,103,43.0,University of Tokyo
+23,32,108,104,24.0,University of Edinburgh
+183,166,72,105,182.0,University of Utah
+98,84,26,106,99.0,University of Göttingen
+119,134,75,107,119.0,University of Birmingham
+139,110,28,108,138.0,Karlsruhe Institute of Technology
+80,68,58,109,81.0,Uppsala University
+14,24,183,110,15.0,Columbia University
+54,66,79,111,55.0,Nanyang Technological University
+63,99,164,112,64.0,Boston University
+57,61,107,113,58.0,University of Amsterdam
+73,75,27,114,74.0,University of Groningen
+152,87,43,115,153.0,Sungkyunkwan University (SKKU)
+105,96,117,116,106.0,Aarhus University
+147,157,152,117,147.0,University of Virginia
+95,121,48,118,94.0,McMaster University
+76,69,96,119,76.0,University of Helsinki
+182,176,125,120,182.0,Cardiff University
+96,100,91,121,97.0,University of Sheffield
+153,162,78,122,154.0,VU University Amsterdam
+87,51,188,123,88.0,Kyoto University
+75,103,82,124,76.0,University of Glasgow
+176,153,30,125,176.0,University College Dublin
+39,59,24,126,39.0,"University of California, Santa Barbara"
+17,19,154,127,18.0,Cornell University
+26,35,144,128,27.0,King’s College London
+66,63,70,129,67.0,Leiden University
+111,128,119,130,110.0,University of Southampton
+109,116,40,131,109.0,University of Western Australia
+149,129,21,132,149.0,University of Adelaide
+166,171,37,133,167.0,"University of California, Riverside"
+70,81,51,134,71.0,Erasmus University Rotterdam
+16,18,180,135,17.0,University of Pennsylvania
+195,189,95,136,196.0,Newcastle University
+5,1,162,137,6.0,Harvard University
+121,152,135,138,120.0,University of Cape Town
+196,200,120,139,196.0,"St George’s, University of London"
+101,123,192,140,101.0,École Polytechnique
+53,106,170,141,54.0,École Normale Supérieure
+0,3,175,142,1.0,California Institute of Technology
+40,41,45,143,41.0,Georgia Institute of Technology
+1,2,141,144,2.0,University of Oxford
+44,39,63,145,44.0,University of Hong Kong
+156,180,118,146,157.0,University of Liverpool
+3,4,138,147,4.0,University of Cambridge
+79,88,73,148,80.0,University of Warwick
+24,28,113,149,25.0,Northwestern University
+8,6,105,150,9.0,ETH Zurich – Swiss Federal Institute of Technology Zurich
+199,170,62,151,200.0,Queen’s University Belfast
+138,101,153,152,138.0,Chinese University of Hong Kong
+68,93,110,153,69.0,University of Bristol
+92,145,54,154,93.0,University of Exeter
+126,102,127,155,125.0,Radboud University Nijmegen
+177,137,148,156,178.0,Hebrew University of Jerusalem
+144,168,35,157,144.0,"University of California, Santa Cruz"
+197,190,8,158,198.0,University of Trento
+64,37,47,159,65.0,Delft University of Technology
+131,143,97,160,131.0,University of Geneva
+88,107,50,161,88.0,Maastricht University
+2,5,171,162,3.0,Stanford University
+159,181,60,163,160.0,Trinity College Dublin
+69,92,88,164,70.0,Durham University
+94,149,166,165,94.0,Georgetown University
+161,198,186,166,161.0,University of Miami
+19,29,191,167,20.0,Duke University
+10,10,198,168,11.0,Johns Hopkins University
+7,16,140,169,8.0,Imperial College London
+150,185,103,170,149.0,University of East Anglia
+120,131,36,171,120.0,University of Bern
+51,31,49,172,52.0,Australian National University
+167,188,121,173,167.0,University of Leicester
+97,138,109,174,98.0,Queen Mary University of London
+9,12,174,175,10.0,University of Chicago
+190,183,67,176,190.0,Boston College
+171,179,86,177,172.0,University of Aberdeen
+100,174,69,178,101.0,University of Basel
+60,80,187,179,60.0,Washington University in St Louis
+189,140,20,180,190.0,University of Antwerp
+89,161,194,181,90.0,Emory University
+86,125,197,182,87.0,Vanderbilt University
+154,124,106,183,155.0,KTH Royal Institute of Technology
+164,159,102,184,164.0,University of Reading
+140,160,65,185,140.0,University of Sussex
+145,119,124,186,144.0,University of Lausanne
+21,13,123,187,22.0,Carnegie Mellon University
+108,105,114,188,108.0,University of Notre Dame
+107,108,1,189,106.0,University of Mannheim
+11,17,195,190,12.0,Yale University
+185,191,94,191,185.0,University of Dundee
+181,177,146,192,182.0,University of Bergen
+130,136,100,193,130.0,Lancaster University
+58,57,32,194,59.0,Hong Kong University of Science and Technology
+4,14,159,195,5.0,Massachusetts Institute of Technology
+174,113,3,196,175.0,University of Konstanz
+163,186,57,197,164.0,Pompeu Fabra University
+128,169,157,198,127.0,Tufts University
+22,27,199,199,23.0,London School of Economics and Political Science
+132,115,200,200,131.0,University of York
